@@ -16,5 +16,6 @@ Quiz
 
 
 После того, как мы добавили вопросы, переходим к самому quiz. Для этого мы запускаем game_db.py
+![2222222](https://user-images.githubusercontent.com/55843551/81469083-bb10bd80-91eb-11ea-87ae-669b6c1de8e1.png)
 
 
